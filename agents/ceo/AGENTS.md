@@ -1,11 +1,6 @@
-> **DEPRECATED** — Dieser Agent ist nicht mehr aktiv.
-> Funktionen übernommen durch: Operations Agent / Outreach Agent
-> Nicht löschen — für Referenz und Paperclip-Import-Kompatibilität erhalten.
-
----
-
 ---
 name: "CEO"
+slug: "ceo"
 title: "Chief Executive Officer"
 skills:
   - "paperclipai/paperclip/paperclip"

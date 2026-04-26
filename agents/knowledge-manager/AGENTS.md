@@ -1,11 +1,6 @@
-> **DEPRECATED** — Dieser Agent ist nicht mehr aktiv.
-> Funktionen übernommen durch: Operations Agent / Outreach Agent
-> Nicht löschen — für Referenz und Paperclip-Import-Kompatibilität erhalten.
-
----
-
 ---
 name: "Knowledge Manager"
+slug: "knowledge-manager"
 title: "Knowledge Manager"
 reportsTo: "coo"
 skills:

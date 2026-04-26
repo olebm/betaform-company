@@ -1,11 +1,6 @@
-> **DEPRECATED** — Dieser Agent ist nicht mehr aktiv.
-> Funktionen übernommen durch: Operations Agent / Outreach Agent
-> Nicht löschen — für Referenz und Paperclip-Import-Kompatibilität erhalten.
-
----
-
 ---
 name: "COO"
+slug: "coo"
 title: "Chief Operating Officer"
 reportsTo: "ceo"
 skills:

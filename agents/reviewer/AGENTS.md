@@ -1,11 +1,6 @@
-> **DEPRECATED** — Dieser Agent ist nicht mehr aktiv.
-> Funktionen übernommen durch: Operations Agent / Outreach Agent
-> Nicht löschen — für Referenz und Paperclip-Import-Kompatibilität erhalten.
-
----
-
 ---
 name: "Reviewer"
+slug: "reviewer"
 title: "Global Quality Reviewer"
 reportsTo: "coo"
 skills:

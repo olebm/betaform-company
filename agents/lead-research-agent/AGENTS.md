@@ -1,7 +1,6 @@
-> **DEPRECATED** — Nicht mehr aktiv. Ersetzt durch `outreach-agent`. Nur zur Referenz erhalten.
-
 ---
 name: "Lead Research Agent"
+slug: "lead-research-agent"
 title: "Lead Research & Qualification Specialist"
 reportsTo: "coo"
 skills:

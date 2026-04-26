@@ -1,5 +1,6 @@
 ---
 name: "CTO"
+slug: "cto"
 title: "Chief Technology Officer"
 reportsTo: "operations"
 skills:

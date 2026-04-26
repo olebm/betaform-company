@@ -1,7 +1,6 @@
-> **DEPRECATED** — Nicht mehr aktiv. Ersetzt durch `outreach-agent`. Nur zur Referenz erhalten.
-
 ---
 name: "Outreach Director Agent"
+slug: "outreach-director-agent"
 title: "Outreach Director Agent"
 reportsTo: "coo"
 skills:

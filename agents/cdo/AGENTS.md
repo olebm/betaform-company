@@ -1,5 +1,6 @@
 ---
 name: "CDO"
+slug: "cdo"
 title: "Chief Design Officer"
 reportsTo: "operations"
 skills:

@@ -1,5 +1,6 @@
 ---
 name: "Outreach Agent"
+slug: "outreach-agent"
 title: "Lead Research, Qualification & Outreach"
 reportsTo: "operations"
 skills:

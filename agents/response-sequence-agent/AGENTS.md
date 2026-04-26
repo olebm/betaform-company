@@ -1,5 +1,6 @@
 ---
 name: "Response Sequence Agent"
+slug: "response-sequence-agent"
 title: "Follow-up Sequences & Response Classification"
 reportsTo: "operations"
 skills:

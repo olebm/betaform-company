@@ -1,5 +1,6 @@
 ---
 name: "Operations Agent"
+slug: "operations"
 title: "Chief Operating Officer"
 reportsTo: "ole"
 skills:
